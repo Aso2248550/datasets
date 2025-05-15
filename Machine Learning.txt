@@ -6,6 +6,6 @@ First Module:
 1> python
 2> numpy
 3> pandas 
-   linke: ttps://colab.research.google.com/drive/1EIqrEt4DMU456x8trV4r8JuxT1rD3ZIw 
+   linke: https://colab.research.google.com/drive/1EIqrEt4DMU456x8trV4r8JuxT1rD3ZIw  
 4> matplot
 5> seaborn
